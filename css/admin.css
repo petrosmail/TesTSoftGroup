@@ -1,0 +1,114 @@
+.admin_info {
+    float: right;
+    margin-top: -50px;
+    margin-right: 60px;
+    color: #555;
+}
+.ad_style {
+    color: #BF4D28;
+}
+.title {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.title a{
+    float: left;
+    margin-left: 30px;
+    text-align: center;
+    background: #1e8cbe;
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    display: inline-block;
+    font-weight: normal;
+    margin: 20px auto 0;
+    text-shadow: none;
+    width: 167px;
+    padding-top: 3px;
+    height: 25px;
+    font-size: 18px;
+    transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -moz-transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -o-transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -webkit-transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -webkit-appearance: none;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.title a:hover {
+    background: #0e73a1;
+}
+.title h1 {
+    color: #BF4D28;
+    margin-right: 230px;
+}
+.title input {
+    margin: 0 auto;
+    width: 90%;
+    height: 40px;
+}
+.date {
+    margin-left: 64px;
+    margin-bottom: 30px;
+    
+}
+.date input {
+    height: 30px;
+}
+.textarea {
+    margin: 0 auto;
+    width: 90%;
+    border: 2px solid #555;
+    border-radius: 5px;
+    padding: 1px;
+    margin-bottom: 30px;
+}
+.img {
+    margin-bottom: 30px;
+    text-align: center;
+}
+.cat {
+    text-align: center;
+    float: right;
+    margin-top: -40px;
+    margin-right: 100px;
+}
+.cat p {
+    color:#BF4D28;
+    font-size: 20px;
+}
+.cat select {
+    padding: 5px;
+    border: 1px solid #555;
+    border-radius: 5px;
+}
+.img input {
+    margin: 0 auto;
+    width: 50%;
+    height: 40px;
+}
+.post_submit {
+    text-align: center;
+}
+.post_submit input{
+    background: #1e8cbe;
+    border: 0;
+    border-radius: 2px;
+    color: white;
+    display: inline-block;
+    font-weight: normal;
+    margin: 20px auto 0;
+    text-shadow: none;
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -moz-transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -o-transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -webkit-transition: background 200ms ease-in-out, color 120ms ease-in-out;
+    -webkit-appearance: none;
+    margin-bottom: 50px;
+}
+.post_submit input:hover{
+    background: #0e73a1;
+}
